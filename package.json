@@ -1,0 +1,24 @@
+{
+  "name": "il-make-board-game",
+  "version": "0.0.1",
+  "description": "Board game creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilabacheuski/il-make-board-game.git"
+  },
+  "keywords": [
+    "board-game",
+    "canvas",
+    "three.js"
+  ],
+  "author": "Ilya Labacheuski <ilya.labacheuski@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilabacheuski/il-make-board-game/issues"
+  },
+  "homepage": "https://github.com/ilabacheuski/il-make-board-game#readme"
+}
