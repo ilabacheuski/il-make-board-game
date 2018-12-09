@@ -1,0 +1,9 @@
+@import "default/colors.css";
+
+.App {
+  color: red;
+
+  h1 {
+    color: var(--primary-color);
+  }
+}
